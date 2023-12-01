@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+body {
+    background-color: lightpink;
+    color: darkmagenta;
+    text-align:center;
+    font-size:18pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-family: 'Lora', serif; */
+}
